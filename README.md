@@ -4,4 +4,6 @@ Este projeto registra a construção de *large language models* (na linguagem R)
 
 Em breve: fontes no [Jupyter Lab](https://jupyter.org/) ou [Google Colab](https://colab.research.google.com/), vídeos e curadoria de links para quem quiser replicar a ideia.
 
+**Obs.:** esta iniciativa acontece no âmbito do [Projeto de Extensão Teia](https://projetos.ufes.br/#/projetos/4956/informacoes).
+
 Contato: hugo.santanna@ufes.br
